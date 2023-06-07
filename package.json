@@ -1,5 +1,5 @@
 {
-  "name": "gtech_react_profile",
+  "name": "react-profile",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajdavis2424/gtech_react_profile.git"
+    "url": "git+https://github.com/ajdavis2424/react-profile.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajdavis2424/gtech_react_profile/issues"
+    "url": "https://github.com/ajdavis2424/react-profile/issues"
   },
-  "homepage": "https://github.com/ajdavis2424/gtech_react_profile#readme",
+  "homepage": "https://github.com/ajdavis2424/react_profile#readme",
   "dependencies": {
     "concurrently": "^7.0.0",
     "cors": "^2.8.5",
